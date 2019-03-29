@@ -9,6 +9,7 @@ namespace IntroductionToCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome To C Sharp");
         }
     }
 }
